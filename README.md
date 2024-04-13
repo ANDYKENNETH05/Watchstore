@@ -1,4 +1,5 @@
-# C-Users-GLORY-PycharmProjects-Watchstore
+# C-Users-GLORY-PycharmProjects
+my frist website using django
 images are not so good
 USERNAME : admin
 PASSWORD : programming
