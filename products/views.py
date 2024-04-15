@@ -2,6 +2,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 from .models import Product
 
+
 def index(request):
     products = Product.objects.all()
     return render(request, 'index.html',
@@ -9,4 +10,5 @@ def index(request):
 
 
 def new(request):
-    return HttpResponse("new packages")
+    return HttpResponse("new packages "
+                        "coming soon")
