@@ -1,7 +1,8 @@
-# C-Users-GLORY-PycharmProjects
+# Django Project
 my frist website using django
 images are not so good
+# ADMIN PANEL
 USERNAME : admin
 PASSWORD : programming
-Afterrunning 'python manage.py in the terminal,
-use /admin or /products to navigate to Watchstore
+# How to run the project 
+cd  Watchstore python manage.py
